@@ -10,6 +10,22 @@ Analyze the impact of different blood parameters
 Compare model performance with and without hemoglobin (Hb)
 Ensure high accuracy and reliability for early screening
 
+**Dataset Description**
+
+https://data.mendeley.com/datasets/y7v7ff3wpj/1
+The dataset is sourced from Mendeley Data and includes clinical and hematological parameters from pediatric anemia patients. It is designed to support the development of predictive models, aiding in early diagnosis and personalized management of anemia.
+
+It contains key blood parameters commonly used in anemia diagnosis:
+
+Hemoglobin (Hb)
+Red Blood Cell Count (RBC)
+Packed Cell Volume (PCV)
+Mean Corpuscular Volume (MCV)
+Mean Corpuscular Hemoglobin (MCH)
+Mean Corpuscular Hemoglobin Concentration (MCHC)
+
+The dataset is particularly useful for research in hematology, pediatric care, and healthcare prediction modeling, with labeled instances indicating whether a patient is anemic or not.
+
 **Methodology**
 
 Data Preprocessing
